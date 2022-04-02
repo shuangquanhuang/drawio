@@ -1,7 +1,3 @@
-https://codesandbox.io/s/connect-context-3q1rrf?file=/src/Component.js
-
-
-
 ```mermaid
 classDiagram
 
@@ -18,11 +14,14 @@ MyTagListTable --* MyTagPage
 Table --* MyTagListTable
 
 
+```
+
+### TemplateEditPage
+
+```mermaid
+
 TemplateEditPage *-- BasicSetting
 TemplateEditPage *-- DataSetting
 TemplateEditPage *-- AnnotationSetting
 TemplateEditPage *-- ValidationSetting
-
-
 ```
-
