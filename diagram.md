@@ -19,7 +19,7 @@ Table --* MyTagListTable
 ### TemplateEditPage
 
 ```mermaid
-
+classDiagram
 TemplateEditPage *-- BasicSetting
 TemplateEditPage *-- DataSetting
 TemplateEditPage *-- AnnotationSetting
