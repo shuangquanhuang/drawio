@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-07-24T11:28:31.603Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.0" etag="Fi4WIr3TwCq66np9Ts1i" type="github"><diagram id="b5xCv55cFep8N21Qey7J">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-24T11:32:56.958Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="nKZSB9V-m-Tjcm-atENk" version="20.2.0" type="github">
+  <diagram id="b5xCv55cFep8N21Qey7J" name="Page-1">
+    <mxGraphModel dx="2066" dy="1042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hPOumpBYLTAYLV7rFLCq-1" value="Backend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="510" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hPOumpBYLTAYLV7rFLCq-2" value="Service Layer / Or BFF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="450" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hPOumpBYLTAYLV7rFLCq-3" value="Routing/&lt;br&gt;Auth/&lt;br&gt;Log/&lt;br&gt;etc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="260" width="60" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="hPOumpBYLTAYLV7rFLCq-4" value="UserManagement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hPOumpBYLTAYLV7rFLCq-6" value="Suppiler Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hPOumpBYLTAYLV7rFLCq-7" value="TemplateManagement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hPOumpBYLTAYLV7rFLCq-8" value="Annotation Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hPOumpBYLTAYLV7rFLCq-9" value="Validation Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hPOumpBYLTAYLV7rFLCq-10" value="List/Item Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hPOumpBYLTAYLV7rFLCq-11" value="Project Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hPOumpBYLTAYLV7rFLCq-12" value="TaskManagement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
